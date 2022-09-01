@@ -54,6 +54,10 @@ module.exports = {
         use: [
           { loader: 'style-loader' }, { loader: 'css-loader' },
         ],
+      },
+      {
+        test: /\.json$/,
+        loader: 'raw-loader'
       }
     ],
   },

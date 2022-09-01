@@ -1,2 +1,9 @@
 @import 'variables.module';
 
+#root {
+    .app-container {
+        padding-top: 100px;
+
+        @import 'header';
+    }
+}

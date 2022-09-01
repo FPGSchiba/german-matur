@@ -1,0 +1,10 @@
+[
+    {
+        "text": "This is an example",
+        "index": 0,
+        "category": {
+            "tag": "test",
+            "color": "#018f69"
+        }
+    }
+]

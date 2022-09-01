@@ -16,6 +16,8 @@
     "@types/react-dom": "^17.0.9",
     "https": "^1.0.0",
     "https-browserify": "^1.0.0",
+    "json-loader": "^0.5.7",
+    "raw-loader": "^4.0.2",
     "react": "^17.0.2",
     "react-audio-visualizer": "^1.0.3",
     "react-dom": "^17.0.2",

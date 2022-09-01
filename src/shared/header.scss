@@ -1,0 +1,35 @@
+.header {
+    &.header-container {
+        position: absolute;
+        top: 25px;
+        left: 3%;
+        height: 75px;
+        width: 94%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: $color-primary-1;
+        border-radius: 1.5em;
+    }
+
+    &.header-action {
+        height: 70%;
+        background-color: $color-primary-2;
+        font-weight: bold;
+        border-radius: 5px;
+        margin: 0 4px;
+        width: 120px;
+        
+        span {
+            font-size: 1em;
+        }
+
+        &:hover {
+            color: $color-text-primary;
+        }
+
+        &.Mui-selected {
+            background-color: $color-secondary-1;
+        }
+    }
+}
