@@ -1,5 +1,10 @@
+html {
+  height: calc(100% - 100px);
+}
+
 body {
   margin: 0;
+  height: 100%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

@@ -56,9 +56,13 @@ module.exports = {
         ],
       },
       {
-        test: /\.json$/,
-        loader: 'raw-loader'
-      }
+        test: /\.json$/i,
+        loader: 'json-loader',
+        options: {
+          esModule: true,
+        },
+        type: 'javascript/auto',
+      },
     ],
   },
   devServer: {

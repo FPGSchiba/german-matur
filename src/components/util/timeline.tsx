@@ -1,3 +1,4 @@
+import React from "react";
 export interface TimeLineCategory {
     tag: string;
     color: string;
@@ -15,14 +16,15 @@ const TimelineItem = (props: {data: TimeLineData}) => (
             <span className="tag" style={{ background: props.data.category.color }}>
                 {props.data.category.tag}
             </span>
-            <time>{props.data.index}</time>
+            <time>Seite: {props.data.index}</time>
             <p>{props.data.text}</p>
             <span className="circle" />
         </div>
     </div>
 );
 
-export const TimeLine = (data: any[]) => {
+export const TimeLine = (props: { data: TimeLineData[]}) => {
+    const { data } = props;
     return (
         <div className="timeline-container">
             {data.map((data, idx) => (
