@@ -33,3 +33,19 @@
         }
     }
 }
+
+.pages-heading {
+    width: fit-content;
+    padding-left: 23px;
+    padding-right: 23px;
+    height: 70px;
+    color: $color-secondary-1;
+    font-weight: bold;
+    background-color: $color-divider;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}

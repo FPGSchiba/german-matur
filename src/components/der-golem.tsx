@@ -12,7 +12,7 @@ export function DerGolem() {
 
     return (
         <>
-            <h1>Der Golem</h1>
+            <h1 className="pages-heading">Der Golem</h1>
             <TimeLine data={timeLineData} />
         </>
     )
