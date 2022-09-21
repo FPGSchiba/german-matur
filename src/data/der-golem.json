@@ -5,16 +5,32 @@
             "text": "This is an example",
             "index": 0,
             "side": "left",
+            "expandable": false,
             "category": {
                 "tag": "WAS",
                 "color": "#018f69"
-            }
+            },
+            "images": [
+                {
+                    "alt": "This is a not local image",
+                    "url": "https://static.remove.bg/remove-bg-web/c4b29bf4b97131238fda6316e24c9b3606c18000/assets/start-1abfb4fe2980eabfbbaaa4365a0692539f7cd2725f324f904565a9a744f8e214.jpg"
+                },
+                {
+                    "alt": "some new image",
+                    "url": "Test.jpeg"
+                },
+                {
+                    "alt": "This is a local image",
+                    "url": "image.png"
+                }
+            ]
         },
         {
             "header": "Header 1",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut luctus sapien. Ut nulla lectus, iaculis id diam eu, accumsan ultrices justo. Vivamus sollicitudin libero elit, id vestibulum turpis auctor et. Sed fringilla viverra ante, ac vehicula turpis tempus id. Mauris a ullamcorper mi. Vivamus aliquam lacus id ultricies tempor. Nam commodo nec nisi quis eleifend. Ut ac porttitor nisl, eget congue elit. Mauris vehicula enim pharetra massa rutrum sodales. Donec dolor lectus, feugiat et luctus eu, scelerisque non arcu.",
             "index": 20,
             "side": "left",
+            "expandable": true,
             "category": {
                 "tag": "Test",
                 "color": "#018f69"
@@ -25,6 +41,7 @@
             "text": "<b>Some Bold Text</b>",
             "index": 20,
             "side": "right",
+            "expandable": false,
             "category": {
                 "tag": "Test",
                 "color": "#018f69"
@@ -35,6 +52,7 @@
             "text": "This is another example",
             "index": 20,
             "side": "left",
+            "expandable": false,
             "category": {
                 "tag": "Test",
                 "color": "#018f69"
@@ -45,6 +63,7 @@
             "text": "This is another example",
             "index": 20,
             "side": "left",
+            "expandable": false,
             "category": {
                 "tag": "Test",
                 "color": "#018f69"
@@ -55,6 +74,7 @@
             "text": "This is another example",
             "index": 20,
             "side": "right",
+            "expandable": false,
             "category": {
                 "tag": "Test",
                 "color": "#018f69"
@@ -65,6 +85,7 @@
             "text": "This is another example",
             "index": 20,
             "side": "left",
+            "expandable": false,
             "category": {
                 "tag": "Test",
                 "color": "#018f69"
@@ -75,6 +96,7 @@
             "text": "This is another example",
             "index": 20,
             "side": "left",
+            "expandable": false,
             "category": {
                 "tag": "Test",
                 "color": "#018f69"
@@ -85,6 +107,7 @@
             "text": "This is another example",
             "index": 20,
             "side": "left",
+            "expandable": false,
             "category": {
                 "tag": "Test",
                 "color": "#018f69"
@@ -95,6 +118,7 @@
             "text": "This is another example",
             "index": 20,
             "side": "left",
+            "expandable": false,
             "category": {
                 "tag": "Test",
                 "color": "#018f69"
@@ -105,6 +129,7 @@
             "text": "This is another example",
             "index": 20,
             "side": "left",
+            "expandable": false,
             "category": {
                 "tag": "Test",
                 "color": "#018f69"
@@ -115,6 +140,7 @@
             "text": "This is another example",
             "index": 20,
             "side": "left",
+            "expandable": false,
             "category": {
                 "tag": "Test",
                 "color": "#018f69"
@@ -125,6 +151,7 @@
             "text": "This is another example",
             "index": 20,
             "side": "left",
+            "expandable": false,
             "category": {
                 "tag": "Test",
                 "color": "#018f69"
@@ -135,6 +162,7 @@
             "text": "This is another example",
             "index": 20,
             "side": "left",
+            "expandable": false,
             "category": {
                 "tag": "Test",
                 "color": "#018f69"

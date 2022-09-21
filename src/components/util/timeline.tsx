@@ -1,8 +1,15 @@
 import React from "react";
+import { OpenCard } from "./card";
 import ExpandCard from "./expand-card";
+import { ImageWrapper } from "./image-wrapper";
 export interface TimeLineCategory {
     tag: string;
     color: string;
+}
+
+export interface TimeLineImage {
+    alt: string;
+    url: string;
 }
 
 export interface TimeLineData {
@@ -10,7 +17,9 @@ export interface TimeLineData {
     text: string;
     index: number;
     side: string;
+    expandable: boolean;
     category: TimeLineCategory;
+    images?: TimeLineImage[];
 }
 
 const TimelineItem = (props: {data: TimeLineData}) => (
@@ -20,7 +29,8 @@ const TimelineItem = (props: {data: TimeLineData}) => (
                 {props.data.category.tag}
             </span>
             <time>Seite: {props.data.index}</time>
-            <ExpandCard header={props.data.header} text={props.data.text} />
+             { props.data.expandable ? <ExpandCard header={props.data.header} text={props.data.text} /> : <OpenCard header={props.data.header} text={props.data.text} /> }
+             { props.data.images ? <ImageWrapper images={props.data.images} /> : null}
             <span className="circle" />
         </div>
     </div>
