@@ -5,7 +5,7 @@
             "text": "This is an example",
             "index": 0,
             "side": "left",
-            "expandable": false,
+            "expandable": true,
             "category": {
                 "tag": "WAS",
                 "color": "#018f69"
