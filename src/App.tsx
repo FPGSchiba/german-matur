@@ -4,7 +4,7 @@ import { Routes, Route, useLocation } from "react-router-dom";
 import { Home } from './components/home';
 import { NotFound } from './components/not-found';
 import { Header } from './components/header';
-import { DerGolem } from './components/der-golem';
+import { PageContent } from './components/util/page-content';
 
 function App() {
   const location = useLocation();
@@ -16,7 +16,7 @@ function App() {
       <Routes>
         <Route path={"/"} element={<Home />} />
         <Route path={"/home"} element={<Home />} />
-        <Route path={"/der-golem"} element={<DerGolem />} />
+        <Route path={"/der-golem"} element={<PageContent header='Der Golem' />} />
         <Route path="/not-found" element={<NotFound />} />
         <Route path="*" element={<NotFound />} />
       </Routes>

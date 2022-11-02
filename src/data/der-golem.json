@@ -1,4 +1,11 @@
 {
+    "meta": {
+        "author": "Gustav Meyrink",
+        "authorImage": "",
+        "opinion": "Fusce est diam, consectetur et justo non, vulputate elementum tellus. Integer odio nisi, vulputate vitae auctor mattis, semper ac ex. Curabitur felis purus, sollicitudin eget consequat vel, pulvinar quis arcu. In hac habitasse platea dictumst. Nunc eget posuere orci, ut pharetra turpis. Proin quis dictum libero. Aenean enim diam, rutrum ut imperdiet id, condimentum ac ipsum. Maecenas tortor elit, volutpat a augue venenatis, convallis dignissim tellus. Curabitur quis pulvinar nibh. Donec felis tellus, lobortis eget scelerisque at, tristique sit amet nulla. Vivamus feugiat ex sit amet porttitor finibus. Ut vestibulum lobortis augue, sit amet pellentesque dolor ultricies non. Maecenas ac sem non nulla placerat tempor vel at risus. Phasellus vitae odio sagittis, sagittis lorem quis, venenatis felis.",
+        "recommendation": "Vestibulum ut elit aliquet dolor pharetra venenatis vel vel risus. Sed ullamcorper massa ante, sit amet tincidunt odio rhoncus ac. Duis eget hendrerit enim. Curabitur sed erat vel arcu convallis tempor. Curabitur nec volutpat risus, nec fringilla turpis. Praesent lacus massa, sodales at odio eu, iaculis posuere nibh. Nam bibendum lobortis neque, nec tincidunt tortor pellentesque eget. Ut fermentum, felis id finibus iaculis, nisl augue rhoncus mauris, vitae lobortis erat mi non diam. Phasellus auctor dui tellus, eu rutrum dui interdum eget. Curabitur quis efficitur tellus, at rutrum dui. Nunc dui elit, ultricies sit amet consectetur quis, efficitur vel leo. Phasellus in justo ut urna accumsan euismod. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque et nunc arcu. Sed euismod tellus ligula, vitae interdum ante sollicitudin ac. Nunc a dolor pretium, aliquam lorem nec, cursus quam.",
+        "relation": "Relations to the real world would be nice"
+    },
     "timeLine": [
         {
             "header": "Header 1",

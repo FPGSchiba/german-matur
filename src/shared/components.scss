@@ -6,7 +6,9 @@
         height: 100%;
         width: 100%;
         @import 'header';
+        @import "page";
         @import 'timeline';
+        @import "information";
 
         &.der-golem {
             background: url('../data/der-golem.jpg') no-repeat center center fixed; 

@@ -1,0 +1,23 @@
+.page-container {
+    display: flex;
+    flex-direction: column;
+    height: max-content;
+
+    &.page-container__switch {
+        align-self: center;
+        align-items: center;
+    }
+
+    &.page-container__label {
+        display: flex;
+        flex-direction: row;
+
+        p {
+            margin: 0 20px;
+            background-color: $color-divider;
+            padding: 10px;
+            border-radius: 10px;
+            color: $color-secondary-1;
+        }
+    }
+}

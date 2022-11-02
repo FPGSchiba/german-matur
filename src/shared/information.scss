@@ -1,0 +1,38 @@
+.information {
+    background-color: $color-divider;
+    border-radius: 10px;
+    min-height: 400px;
+    width: 70%;
+    display: flex;
+    align-self: center;
+    justify-self: center;
+    margin-bottom: 200px;
+    color: $color-text-primary;
+
+    &.information-table {
+        display: block;
+        margin-left: auto;
+        margin-top: 15px;
+        margin-right: 12%;
+        margin-bottom: 20px;
+        border-collapse: collapse;
+        padding: 15px;
+
+        td {
+            padding-top: 15px;
+        }
+
+        .table-header {
+            font-size: 25px;
+            font-weight: bold;
+            vertical-align: top;
+            border-bottom: 2px solid $color-primary-1;
+        }
+
+        .table-text {
+            font-size: 18px;
+            text-align: left;
+            border-bottom: 2px solid $color-primary-1;
+        }
+    }
+}
