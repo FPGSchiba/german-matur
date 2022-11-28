@@ -1,7 +1,6 @@
 import React from "react";
 import { OpenCard } from "./card";
 import ExpandCard from "./expand-card";
-import { ImageWrapper } from "./image-wrapper";
 export interface TimeLineCategory {
     tag: string;
     color: string;
@@ -15,22 +14,22 @@ export interface TimeLineImage {
 export interface TimeLineData {
     header: string;
     text: string;
-    index: number;
+    zopef: string;
     side: string;
     expandable: boolean;
-    category: TimeLineCategory;
+    kapitel: TimeLineCategory;
     images?: TimeLineImage[];
 }
 
 const TimelineItem = (props: {data: TimeLineData}) => (
     <div className={props.data.side == "right" ? "timeline-item-right" : "timeline-item"}>
         <div className="timeline-item-content">
-            <span className="tag" style={{ background: props.data.category.color }}>
-                {props.data.category.tag}
+            <span className="tag" style={{ background: props.data.kapitel.color }}>
+                {props.data.kapitel.tag}
             </span>
-            <time>Seite: {props.data.index}</time>
+            <span className="timeline-zopef">{props.data.zopef}</span>
              { props.data.expandable ? <ExpandCard header={props.data.header} text={props.data.text} /> : <OpenCard header={props.data.header} text={props.data.text} /> }
-             { props.data.images ? <ImageWrapper images={props.data.images} /> : null}
+             { props.data.images ? <p>Currently no Images supported</p> : null}
             <span className="circle" />
         </div>
     </div>

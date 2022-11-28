@@ -8,15 +8,14 @@ import { PageContent } from './components/util/page-content';
 
 function App() {
   const location = useLocation();
-  console.log(location.pathname.replace('/', ''))
 
   return (
-    <div className={'app-container ' + location.pathname.replace('/', '')}>
+    <div className={'app-container ' + location.pathname.replace('information', '').replace('time-line', '').replaceAll('/', '')}>
       <Header />
       <Routes>
         <Route path={"/"} element={<Home />} />
         <Route path={"/home"} element={<Home />} />
-        <Route path={"/der-golem"} element={<PageContent header='Der Golem' />} />
+        <Route path={"/der-golem/*"} element={<PageContent header='Der Golem' />} />
         <Route path="/not-found" element={<NotFound />} />
         <Route path="*" element={<NotFound />} />
       </Routes>

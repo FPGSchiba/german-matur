@@ -72,7 +72,7 @@ module.exports = {
     static: path.join(__dirname, 'dist'),
   },
   resolve: {
-    extensions: ['.js', '.ts', '.jsx', '.tsx', '.css', '.json', '.scss'],
-    fallback: { "https": require.resolve("https-browserify"), "http": require.resolve("stream-http") }
+    extensions: ['.js', '.ts', '.jsx', '.tsx', '.css', '.json', '.scss']
+    // fallback: { "https": require.resolve("https-browserify"), "http": require.resolve("stream-http") }
   },
 };
