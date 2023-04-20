@@ -1,0 +1,426 @@
+{
+    "meta": {
+        "author": "Marc-Uwe Kling",
+        "authorImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2017-12-27_Marc-Uwe_Kling_7944_cropped.jpg/220px-2017-12-27_Marc-Uwe_Kling_7944_cropped.jpg",
+        "opinion": "Fill",
+        "recommendation": "Fill",
+        "relation": "",
+        "zopef": {
+            "zeit": "Fill",
+            "ort": "Fill",
+            "personen": [
+                {
+                    "name": "Fill",
+                    "rolle": "Protagonist",
+                    "beschreibung": "Fill",
+                    "wichtigsteHandlungen": "",
+                    "id": "fill"
+                }
+            ]
+        },
+        "interpretationen": [
+            {
+                "name": "Fill",
+                "beschreibung": "Fill"
+            }
+        ]
+    },
+    "timeLine": [
+        {
+            "header": "Der Anfang",
+            "text": "<p>Der <strong><a href='#/der-golem/information#ich'>Erz&auml;hler</a></strong> liegt nachts bei Mondlicht im Bett und gr&uuml;belt &uuml;ber eine Geschichte nach, die er gelesen hat. Darin geht es um einen Stein, der glatt ist wie ein St&uuml;ck Fett. Von diesem Bild kommen seine Gedanken nicht los, es verfolgt ihn bis in seine Tr&auml;ume.</p>",
+            "zopef": "Erreignis",
+            "side": "left",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Der Traum",
+                "color": "#00ffff"
+            }
+        },
+        {
+            "header": "Mondlicht",
+            "text": "<p>&bdquo;Das Mondlicht f&auml;llt auf das Fu&szlig;ende meines Bettes und liegt dort wie ein gro&szlig;er, heller, flacher Stein.&ldquo;</p>",
+            "zopef": "Textstelle",
+            "side": "right",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Der Traum",
+                "color": "#00ffff"
+            }
+        },
+        {
+            "header": "Umgebung von Herrn Pernath",
+            "text": "<p>Der Gemmenschneider <a href='#/der-golem/information#athanasius'><strong>Athanasius Pernath</strong></a>&nbsp;lebt im Prager Judenghetto, einer d&uuml;steren und &auml;rmlichen Umgebung. Gegen&uuml;ber wohnt der alte, absto&szlig;end h&auml;ssliche Tr&ouml;dler&nbsp;<a href='#/der-golem/information#aaron'><strong>Aaron Wassertrum</strong></a>&nbsp;mit seiner 14-j&auml;hrigen Tochter&nbsp;<strong>Rosina</strong>. Das M&auml;dchen ist h&uuml;bsch, gerissen und verdreht den M&auml;nnern die K&ouml;pfe. Auch die Zwillinge&nbsp;<strong>Loisa</strong>&nbsp;und&nbsp;<strong>Jaromir</strong>, 15 Jahre alt, sind verr&uuml;ckt nach ihr. Doch Rosina nimmt die beiden Jungen, insbesondere den taubstummen Jaromir, nicht ernst. Als Pernath sein Appartement betritt, h&ouml;rt er in der Nachbarwohnung Gel&auml;chter. Diese ist seit Neuestem an ein Liebespaar vermietet, das sich dort heimlich trifft.</p>",
+            "zopef": "Erreignis",
+            "side": "left",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Der Traum",
+                "color": "#00ffff"
+            }
+        },
+        {
+            "header": "Begegnung",
+            "text": "<p>Ein&nbsp;<a href='#/der-golem/information#golem'><strong>Unbekannter</strong></a>&nbsp;bringt Pernath ein altes Buch zur Reparatur. Bei einem Kapitel ist eine goldene Initiale besch&auml;digt, Pernath soll sie ausbessern. Er betrachtet den Schaden und beginnt unwillk&uuml;rlich zu lesen. Da steigen vor seinem inneren Auge Visionen auf, und er sp&uuml;rt, dass sie mit ihm selbst zu tun haben.</p>",
+            "zopef": "Erreignis",
+            "side": "right",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Ein geheimnisvoller Besucher",
+                "color": "#66ff66"
+            }
+        },
+        {
+            "header": "Lesung",
+            "text": "<p>Pernath liest das Buch bis zum Ende, und als er aufblickt, ist der Fremde verschwunden. Zu seiner Verbl&uuml;ffung stellt Pernath fest, dass er sich an das Gesicht des Fremden nicht erinnern kann. Trotz allen Gr&uuml;belns hat er keine Vorstellung davon. Schlie&szlig;lich geht er vor die T&uuml;r, um selbst die Rolle des Besuchers einzunehmen. Da bemerkt er mit Schrecken, dass er jetzt so aussieht wie der geheimnisvolle Fremde und auch das Buch aus der Tasche holt. Pl&ouml;tzlich ist er wieder er selbst &ndash; und kann sich den Fremden abermals nicht vorstellen.</p>",
+            "zopef": "Erreignis",
+            "side": "left",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Ein geheimnisvoller Besucher",
+                "color": "#66ff66"
+            }
+        },
+        {
+            "header": "Notiz: Stil",
+            "text": "<p>In diesem Abschnitt der Erz&auml;hlung geht es darum, was Pernath dabei empfindet, als der dieses Mystische Buch liest. Er hat ganz kuriose Tagtr&auml;ume von Geistern und anderen Tieren. Diese wirren in seinem Verstand umher, bis er das Buch zu ende hat.</p>",
+            "zopef": "Notiz",
+            "side": "left",
+            "expandable": true,
+            "kapitel": {
+                "tag": "Ein geheimnisvoller Besucher",
+                "color": "#66ff66"
+            }
+        },
+        {
+            "header": "Das Ghetto",
+            "text": "<p>Es regnet in Str&ouml;men. Pernath und der Medizinstudent&nbsp;<a href='#/der-golem/information#innozenz'><strong>Charousek</strong></a>&nbsp;stehen unter einer Toreinfahrt und warten darauf, dass der Regen nachl&auml;sst. Pernath denkt &uuml;ber das Leben der Menschen in dieser freudlosen Umgebung nach. Charousek, der seine Gedanken zu erraten scheint, erkl&auml;rt ihm, dass es im Ghetto durchaus auch Million&auml;re gebe, denen man den Reichtum allerdings nicht ansehe, z. B. den Tr&ouml;dler Wassertrum.</p>",
+            "zopef": "Erreignis",
+            "side": "right",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Die Menschen im Ghetto",
+                "color": "#99ccff"
+            }
+        },
+        {
+            "header": "Millionäre",
+            "text": "<p>Pernath kann nicht glauben, dass es solch reiche Leute im Ghetto gibt. Doch Charousek erkl&auml;rt ihm, der ber&uuml;hmte Augenarzt <a href='#/der-golem/information#wassory'><strong>Dr.&nbsp;Wassory</strong></a> sei Wassertrums Sohn gewesen. Mithilfe einer teuren Augenoperation, konnte Dr. Wassory das grosse Geld machen. Dies tat er indem er Leuten angst machte vor einer Augenkrakheit, die erblindet. Die Leute mussten dann eine teure Operation durchf&uuml;hren, um das Augenlicht nicht zu verlieren.</p>",
+            "zopef": "Erreignis",
+            "side": "left",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Die Menschen im Ghetto",
+                "color": "#99ccff"
+            }
+        },
+        {
+            "header": "Grausame Geschichte",
+            "text": "<p>Der Medizin Student kam ihm dann auf die Schliche und konnte nach einer Weile gen&uuml;gend beweise sammeln, um das ganze aufzudecken. Er konnte dies aber nicht selber tuen und hat deswegen den <a href='#/der-golem/information#savioli'><strong>Dr.&nbsp;Savioli</strong></a> als seinen Hampelmann verwendet und so den Dr. Wassory in den Selbstmord getrieben.</p>",
+            "zopef": "Erreignis",
+            "side": "right",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Die Menschen im Ghetto",
+                "color": "#99ccff"
+            }
+        },
+        {
+            "header": "Notiz: ZOPEF Personen",
+            "text": "<p>In diesem Monolog von Charousek merkte man ihm schnell den Wahnsinn an. Er konnte nicht alle Tassen im Schrank haben, um so etwas sagen. Auch ist die Inszenierung speziell gestaltet, da mehrere Seiten lang Charousek redet und man erst am Schluss merkt, wie Pernath darauf reagiert.</p>",
+            "zopef": "Notiz",
+            "side": "right",
+            "expandable": true,
+            "kapitel": {
+                "tag": "Die Menschen im Ghetto",
+                "color": "#99ccff"
+            }
+        },
+        {
+            "header": "Unsicherheiten",
+            "text": "<p>Pernath verfolgte die Geschichte, des Medizinstudenten mit Angstgef&uuml;hlen und kann es nicht ganz glauben. Nun m&uuml;ssen Savioli und Charousek Wassertrums Rache f&uuml;rchten. Pernath erschrickt, als ihm auff&auml;llt, dass Savioli der Name des Mannes ist, der die Nachbarwohnung gemietet hat. Auf der anderen Stra&szlig;enseite bem&uuml;ht sich der Versicherungsdirektor&nbsp;<a href='#/der-golem/information#zottmann'><strong>Zottmann</strong></a>, ein &auml;lterer Herr, um Rosinas Aufmerksamkeit und verschwindet dann mit ihr im Haus.</p>",
+            "zopef": "Erreignis",
+            "side": "left",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Die Menschen im Ghetto",
+                "color": "#99ccff"
+            }
+        },
+        {
+            "header": "Geschichte des Golem",
+            "text": "<p>An seinem Geburtstag sitzt Pernath abends mit seinen Freunden zusammen. Er erz&auml;hlt von seinem sonderbaren Gast mit dem Buch.&nbsp;<a href='#/der-golem/information#zwakh'><strong>Zwakh</strong></a>, der Puppenspieler, hat eine Erkl&auml;rung, wer der Fremde gewesen sein k&ouml;nnte: der Golem, jener k&uuml;nstliche Mensch, den einst&nbsp;<a href='#/der-golem/information#loew'><strong>Rabbi L&ouml;w</strong></a>&nbsp;aus Lehm formte und der nun der Legende nach alle 33 Jahre im Ghetto erscheint. Vor 66 Jahren habe man ihn mehrfach gesehen. Damals sei er immer in einem Haus nahe der Synagoge verschwunden. Dort habe es ein Zimmer mit vergittertem Fenster und ohne T&uuml;r gegeben. Ein Mann habe sich damals abgeseilt, um in das Fenster sehen zu k&ouml;nnen, und sei in die Tiefe gest&uuml;rzt.</p>",
+            "zopef": "Erreignis",
+            "side": "right",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Eine Entdeckung",
+                "color": "#ffcc99"
+            }
+        },
+        {
+            "header": "Vergangenheit",
+            "text": "<p>&Uuml;ber dem Gespr&auml;ch wird Pernath sehr m&uuml;de. Die Freunde glauben, er sei eingeschlafen, und reden nun &uuml;ber ihn. Zwakh erz&auml;hlt, Pernath habe einige Zeit im Irrenhaus verbracht. Um ihn ein schreckliches Ereignis vergessen zu lassen, habe man ihm durch Hypnose die Erinnerung an seine Vergangenheit genommen. Nun lebe er hier, wo ihn niemand kenne. Pernath h&ouml;rt das alles, und mit einem Schlag wird ihm bewusst, weshalb er sich nicht an seine Jugend erinnern kann: Ein Teil seiner Existenz ist von ihm abgespalten. Zu ihm gibt es &ndash; wie zu dem r&auml;tselhaften Zimmer, in dem der Golem verschwand &ndash; keinen Zugang.</p>",
+            "zopef": "Erreignis",
+            "side": "left",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Eine Entdeckung",
+                "color": "#ffcc99"
+            }
+        },
+        {
+            "header": "Der Gelehrte",
+            "text": "<p>Am Abend nehmen die Freunde Pernath mit in eine Spelunke, wo sich allerhand Gesindel versammelt. Pl&ouml;tzlich merkt er, wie ihn eine sonderbare Starre &uuml;berf&auml;llt und er nicht einmal mehr sprechen kann. Die Freunde tragen ihn zu seinem Nachbarn, dem Archivar und Gelehrten&nbsp;<a href='#/der-golem/information#hillel'><strong>Hillel</strong></a>. Als dieser eine Beschw&ouml;rungsformel murmelt, f&auml;llt die Starre von Pernath ab. Hillel erkl&auml;rt ihm, dass er durch sein Lesen im Buch des Fremden den Geist des Lebens in sich aufgenommen habe und nun nicht mehr sterben k&ouml;nne.</p>",
+            "zopef": "Erreignis",
+            "side": "right",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Der Retter",
+                "color": "#66ff33"
+            }
+        },
+        {
+            "header": "Hilfe",
+            "text": "<p>Sp&auml;ter liegt Pernath wach und gr&uuml;belt &uuml;ber seine Vergangenheit nach. Seine Erinnerung umfasst nur seine Zeit als Gemmenschneider im Prager Ghetto. Krampfhaft versucht er, sich weiter zur&uuml;ckzutasten, aber es gelingt ihm nicht. Sp&auml;ter nimmt die Frau von nebenan,<strong>&nbsp;<a href='#/der-golem/information#angelina'>Saviolis Geliebte</a></strong>, Kontakt zu Pernath auf und bittet ihn um Unterst&uuml;tzung: Sie f&uuml;hlt sich von Wassertrum bedroht und f&uuml;rchtet, er k&ouml;nne ihr und Savioli schaden. Dabei stellt sich heraus, dass sie Pernath von fr&uuml;her kennt, ein Umstand, der ihn in freudige Erregung versetzt: Vielleicht kommt er durch sie seiner Vergangenheit n&auml;her. Gern sagt er ihr seine Hilfe zu.</p>",
+            "zopef": "Erreignis",
+            "side": "left",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Der Retter",
+                "color": "#66ff33"
+            }
+        },
+        {
+            "header": "Notiz: ZOPEF Personen",
+            "text": "<p>Pernath begriff nach dem Gespr&auml;ch mit Angelina schnell, dass seine Erinnerungen mit Grund von ihm verschlossen wurden. Er hatte zu starke Gef&uuml;hle in seinen Jugendjahren und musste deshalb eine Weile im irrenhaus verbringen. Auch nehme ich an diese Gef&uuml;hle richteten sich auf Angelina, da er nur noch an sie denken konnte f&uuml;r eine Weile.</p>",
+            "zopef": "Notiz",
+            "side": "left",
+            "expandable": true,
+            "kapitel": {
+                "tag": "Der Retter",
+                "color": "#66ff33"
+            }
+        },
+        {
+            "header": "Labyrinth",
+            "text": "<p>Gemeinsam mit Charousek bringt Pernath in der folgenden Nacht Briefe von Savioli und seiner Geliebten aus der Nachbarwohnung in Sicherheit. Dabei f&auml;llt ihm dort eine Fallt&uuml;r auf. Als Charousek gegangen ist, kehrt er zur&uuml;ck, &ouml;ffnet die Fallt&uuml;r und steigt hinab in ein unterirdisches Labyrinth, das das Ghetto durchzieht.</p>",
+            "zopef": "Erreignis",
+            "side": "right",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Ein Weg in die Tiefe",
+                "color": "#ccff66"
+            }
+        },
+        {
+            "header": "Kälte",
+            "text": "<p>Nach einem langen Irrgang durch die finsteren Tunnel findet Pernath schlie&szlig;lich eine Treppe nach oben. Durch eine weitere Fallt&uuml;r gelangt er in ein Zimmer, zu dem es sonst keinen Zugang gibt. Der Mond scheint durch ein vergittertes Fenster und beleuchtet einen Haufen Ger&uuml;mpel: altmodische Kleider, ein Tarockspiel. Pernath nimmt die Karten in die Hand und bl&auml;ttert sie durch. Da &uuml;berf&auml;llt ihn eine solche K&auml;lte, dass er sich kaum noch r&uuml;hren kann. Um nicht zu erfrieren, zieht er die alten Kleider &uuml;ber seine eigenen. Nun wird ihm w&auml;rmer.</p>",
+            "zopef": "Erreignis",
+            "side": "left",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Ein Weg in die Tiefe",
+                "color": "#ccff66"
+            }
+        },
+        {
+            "header": "Gestalten",
+            "text": "<p>Im Mondlicht steigt aus einer der Karten sein Ebenbild und wird gr&ouml;&szlig;er und gr&ouml;&szlig;er. Pernath begreift, wo er ist: in dem geheimnisvollen Zimmer, wo man den Golem suchte. Nun sitzt er der Erscheinung Auge in Auge gegen&uuml;ber; bis zum Sonnenaufgang will er die Begegnung aushalten. Einige Stunden muss er so verharren. Dann wird es langsam hell, und die Gestalt schrumpft wieder zu einer Spielkarte. Durch den unterirdischen Gang sucht sich Pernath einen Weg nach drau&szlig;en. Auf der Stra&szlig;e erschrecken die Leute vor ihm; wegen seiner altmodischen Kleider halten sie ihn f&uuml;r den Golem.</p>",
+            "zopef": "Erreignis",
+            "side": "right",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Ein Weg in die Tiefe",
+                "color": "#ccff66"
+            }
+        },
+        {
+            "header": "Notiz: ZOPEF Zeit & Personen",
+            "text": "<p><strong>Personen</strong>:</p><p>Hier sah Pernath das erste Mal sein Doppelg&auml;nger: Den Golem. Er machte sich lange Gedanken dar&uuml;ber, was es bedeuten konnte, dass der Golem so aussah wie er oder ob er aussah wie der Golem. Was ihm aber nie in den Sinn kam, war dass er der Golem sein k&ouml;nnte.</p><p>&nbsp;</p><p><strong>Zeit</strong>:</p><p>Hier verging die Zeit in Raffung, da er die Ganze Nacht frierend auf dem Boden sass.</p>",
+            "zopef": "Notiz",
+            "side": "right",
+            "expandable": true,
+            "kapitel": {
+                "tag": "Ein Weg in die Tiefe",
+                "color": "#ccff66"
+            }
+        },
+        {
+            "header": "Zufälle?",
+            "text": "<p>Zu Hause angekommen, nimmt Pernath die Briefe aus der Nachbarwohnung zur Hand, um sie zu verstecken. Aus dem Stapel rutscht ein Foto der Frau, versehen mit ihrem Namen: Angelina. Mit einem Schlag wird Pernath von Erinnerungen an seine Vergangenheit &uuml;berw&auml;ltigt und braucht alle Kraft, um seine Gef&uuml;hle im Zaum zu halten. Da stehen pl&ouml;tzlich Zwakh und Hillel in der T&uuml;r. Zwakh berichtet aufgeregt, dass der Golem sich wieder herumtreibe und ein Verbrechen geschehen sei: Zottmann ist ermordet worden, Rosina ist verschwunden, Loisa verhaftet.</p>",
+            "zopef": "Folge",
+            "side": "left",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Ein Mord",
+                "color": "#ff6666"
+            }
+        },
+        {
+            "header": "Stille Worte",
+            "text": "<p>&bdquo;Das Buch sprach zu mir, wie der Traum spricht, klarer nur und viel deutlicher. Und es r&uuml;hrte mein Herz an wie eine Frage.&ldquo;</p>",
+            "zopef": "Textstelle",
+            "side": "right",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Ein Mord",
+                "color": "#ff6666"
+            }
+        },
+        {
+            "header": "Mirjam",
+            "text": "<p>Pernath ist immer mehr von Hillels Tochter&nbsp;<a href='#/der-golem/information#mirjam'><strong>Mirjam</strong></a>&nbsp;fasziniert und verewigt ihr Gesicht in einer Gemme. Inzwischen hat er auch die Initiale in dem geheimnisvollen Buch repariert und dabei festgestellt, dass es auf Hebr&auml;isch geschrieben ist &ndash; er kann es eigentlich gar nicht lesen.</p>",
+            "zopef": "Erreignis",
+            "side": "left",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Ein Mord",
+                "color": "#ff6666"
+            }
+        },
+        {
+            "header": "Sonderbare Entscheidung",
+            "text": "<p>Als er eines Abends in seine Wohnung zur&uuml;ckkehrt, hat Pernath das starke Gef&uuml;hl, dass noch jemand anwesend ist, obwohl er niemanden sehen kann. Eine unertr&auml;gliche Anspannung erf&uuml;llt ihn. Weil er keinen Schlaf findet, setzt er sich schlie&szlig;lich in einen Lehnstuhl und d&auml;mmert vor sich hin. Pl&ouml;tzlich sieht er, was er bisher nur f&uuml;hlte: Vor ihm erscheint ein merkw&uuml;rdiges Wesen, dessen Kopf aus Nebel besteht. Es h&auml;lt ihm K&ouml;rner entgegen. Pernath wei&szlig; nicht, was er tun soll, aber er sp&uuml;rt, dass viel von seiner Entscheidung abh&auml;ngt.</p>",
+            "zopef": "Erreignis",
+            "side": "right",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Sonderbare Erscheinungen",
+                "color": "#ff99ff"
+            }
+        },
+        {
+            "header": "Kutschfahrt",
+            "text": "<p>Schlie&szlig;lich schl&auml;gt er dem Wesen die K&ouml;rner aus der Hand. Die Erscheinung verschwindet. Irgendwann f&auml;llt Pernath in einen tiefen Schlaf. Am n&auml;chsten Morgen erf&auml;hrt er, dass in der Nacht die steinerne Br&uuml;cke &uuml;ber die Moldau eingest&uuml;rzt ist. Sp&auml;ter, an einem sch&ouml;nen Fr&uuml;hlingstag, holt Angelina Pernath zu einer Kutschfahrt ab. Sie ist lebhafter als sonst, verf&uuml;hrerisch, und Pernath verf&auml;llt ihrem Charme.</p>",
+            "zopef": "Folge",
+            "side": "left",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Sonderbare Erscheinungen",
+                "color": "#ff99ff"
+            }
+        },
+        {
+            "header": "Mystisches Haus",
+            "text": "<p>Schlie&szlig;lich nimmt sie ihn mit zu sich nach Hause. Auf dem Heimweg am sp&auml;ten Abend verl&auml;uft sich Pernath in der Prager Altstadt. Wo vorher eine Gasse war, steht pl&ouml;tzlich ein Haus. Pernath klopft an die T&uuml;r, um nach dem Weg zu fragen. Ein&nbsp;<strong>uralter</strong>&nbsp;<strong>Mann</strong>&nbsp;erscheint, der aber nicht auf ihn reagiert. Irgendwann findet Pernath den R&uuml;ckweg, er schaut noch bei seinen Freunden in der Kneipe vorbei und erz&auml;hlt ihnen von dem merkw&uuml;rdigen Haus. Da erf&auml;hrt er, dass er wieder einmal eine Erscheinung hatte: Das Haus taucht nur in der Nacht auf und zeigt sich nur auserw&auml;hlten Personen.</p>",
+            "zopef": "Erreignis",
+            "side": "right",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Sonderbare Erscheinungen",
+                "color": "#ff99ff"
+            }
+        },
+        {
+            "header": "Lebenswille",
+            "text": "<p>Als Pernath erwacht, erscheint ihm alles so sinnlos, dass er ernsthaft an Selbstmord denkt. Doch vor diesem Schritt will er Mirjam noch sein ganzes Geld geben. Da taucht Wassertrum auf, der ihm eine goldene Uhr als Geschenk aufdr&auml;ngt. Pernath geht zur Bank, um seine Ersparnisse abzuheben. Doch sein Konto hat eine K&uuml;ndigungsfrist, er kann das Geld erst in einer Woche bekommen. Frustriert setzt er sich in eine Kneipe &ndash; und wird sp&auml;ter dort festgenommen.</p>",
+            "zopef": "Erreignis",
+            "side": "left",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Der Verdacht",
+                "color": "#0099ff"
+            }
+        },
+        {
+            "header": "Mordverdacht",
+            "text": "<p>Die goldene Uhr geh&ouml;rte dem ermordeten Zottmann, und nun ist Pernath verd&auml;chtig. Offensichtlich war das Wassertrums Absicht. Pernath streitet alles ab und kommt in Untersuchungshaft. Eines Tages wird ihm ein Brief von Charousek in die Zelle geschmuggelt: Der Student will Beweise f&uuml;r Pernaths Unschuld beschaffen.</p>",
+            "zopef": "Erreignis",
+            "side": "right",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Der Verdacht",
+                "color": "#0099ff"
+            }
+        },
+        {
+            "header": "Notiz: ZOPEF Zeit",
+            "text": "An diesem Punk vergingen mehrere Monate, die Athanasius Pernath in Haft verbrachte.",
+            "zopef": "ZOPEF: Zeit",
+            "side": "right",
+            "expandable": true,
+            "kapitel": {
+                "tag": "Der Verdacht",
+                "color": "#0099ff"
+            }
+        },
+        {
+            "header": "Das Medium",
+            "text": "<p>Ein neuer Gefangener kommt in die Zelle, der Lustm&ouml;rder&nbsp;<a href='#/der-golem/information#laponder'><strong>Laponder</strong></a>. Er macht einen friedfertigen Eindruck, doch Pernath f&uuml;rchtet sich vor ihm. Eines Nachts bei Vollmond h&ouml;rt er Laponder pl&ouml;tzlich im Schlaf sprechen &ndash; mit Mirjams Stimme. Laponder ist offensichtlich ein Medium. Pernath stellt Mirjam Fragen und bekommt Antwort. Dann sprechen die Stimmen von Hillel und Charousek. Pernath ist sehr aufgew&uuml;hlt und teilt seine Erlebnisse am n&auml;chsten Tag Laponder mit. Doch der wird zur Hinrichtung abgeholt, und Pernath ist wieder allein. Erst einige Monate sp&auml;ter wird er eines Abends pl&ouml;tzlich freigelassen: Seine Unschuld ist erwiesen, Loisa hat Zottmann aus Eifersucht wegen Rosina ermordet.</p>",
+            "zopef": "Erreignis",
+            "side": "left",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Der Verdacht",
+                "color": "#0099ff"
+            }
+        },
+        {
+            "header": "Suche",
+            "text": "<p>Pernath m&ouml;chte zur&uuml;ck in seine Wohnung &ndash; doch das Ghetto gibt es nicht mehr. Die alten H&auml;user werden abgerissen; wo Pernath und seine Bekannten lebten, stehen nur noch Ruinen. Er irrt umher und fragt schlie&szlig;lich einen&nbsp;Arbeiter, was aus seinen Freunden geworden sei. Der kennt von den Personen, die Pernath nennt, niemanden, nur der taubstumme Jaromir ist ihm ein Begriff.</p>",
+            "zopef": "Erreignis",
+            "side": "right",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Die Heimkehr",
+                "color": "#66ff66"
+            }
+        },
+        {
+            "header": "Miete",
+            "text": "<p>Diesen trifft Pernath schlie&szlig;lich in einer Kneipe. M&uuml;hselig versucht er etwas &uuml;ber die anderen zu erfahren. Doch aus Jaromirs Zeichen kann er nur erraten, dass niemand mehr da ist. So mietet er sich eine Wohnung in dem Haus, in dem auch das Zimmer des Golems sein soll. Dieses Haus ist eines der wenigen im Viertel, das noch steht.</p>",
+            "zopef": "Erreignis",
+            "side": "left",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Die Heimkehr",
+                "color": "#66ff66"
+            }
+        },
+        {
+            "header": "Fett",
+            "text": "<p>An Weihnachten sitzt er allein in seiner Wohnung, da steht pl&ouml;tzlich sein&nbsp;<strong>Doppelg&auml;nger</strong> auf der T&uuml;rschwelle. Im selben Moment bricht im Haus ein Feuer aus. Pernath rettet sich auf das Dach und seilt sich von dort ab. Dabei sieht er in das geheimnisvolle Zimmer. Es ist hell erleuchtet und Mirjam und Hillel sind darin. Au&szlig;er sich vor Freude l&auml;sst Pernath das Seil los. Er will sich noch am Fenstersims festhalten, rutscht aber ab, denn der Stein ist glatt wie ein St&uuml;ck Fett.</p>",
+            "zopef": "Erreignis",
+            "side": "right",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Die Heimkehr",
+                "color": "#66ff66"
+            }
+        },
+        {
+            "header": "Der Golem",
+            "text": "<p>&bdquo;Dann wacht in mir heimlich die Sage von dem gespenstischen Golem, jenem k&uuml;nstlichen Menschen, wieder auf, den einst hier im Ghetto ein kabbalakundiger Rabbiner aus dem Elemente formte und ihn zu einem gedankenlosen automatischen Dasein berief, indem er ihm ein magisches Zahlenwort hinter die Z&auml;hne schob.&ldquo;</p>",
+            "zopef": "Textstelle",
+            "side": "left",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Die Heimkehr",
+                "color": "#66ff66"
+            }
+        },
+        {
+            "header": "Erwachen",
+            "text": "<p>Mit diesem Satz kommt der Erz&auml;hler wieder zu sich. Offensichtlich hat er alles nur getr&auml;umt. Er betrachtet einen Hut, den er an diesem Tag im Dom versehentlich mitgenommen hat. Darin steht ein Name: Athanasius Pernath. Nun ist der Erz&auml;hler hellwach und macht sich mitten in der Nacht auf die Suche nach den Spuren seines Traums. Das Judenviertel ist inzwischen neu aufgebaut. In einer Kneipe erz&auml;hlt ihm die&nbsp;<strong>Kellnerin</strong>, dass die steinerne Br&uuml;cke vor 33 Jahren eingest&uuml;rzt sei. Dann findet er auch noch&nbsp;<strong>zwei</strong>&nbsp;<strong>M&auml;nner</strong>, denen der Name Pernath etwas sagt.</p>",
+            "zopef": "Erreignis",
+            "side": "right",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Die Heimkehr",
+                "color": "#66ff66"
+            }
+        },
+        {
+            "header": "Ende",
+            "text": "<p>Der eine meint, Pernath sei ein Verr&uuml;ckter gewesen. Der andere f&auml;hrt dazwischen: Pernath sei eine Sagengestalt, es habe ihn nie gegeben. Doch manche w&uuml;rden behaupten, er lebe immer noch, und zwar in dem gespenstischen Haus in der Altstadt. Der Erz&auml;hler macht sich erneut auf die Suche. Er findet die Stelle, wo das Haus stand; dort befindet sich nun ein pr&auml;chtiges Bauwerk. Mirjam und Pernath stehen auf den Stufen. Als Pernath sich zu ihm dreht, erschrickt der Erz&auml;hler: Der Mann ist sein exaktes Ebenbild. Ein&nbsp;<strong>Diener</strong>&nbsp;kommt zum Tor, nimmt ihm den vertauschten Hut ab und gibt ihm daf&uuml;r seinen eigenen zur&uuml;ck.</p>",
+            "zopef": "Erreignis",
+            "side": "left",
+            "expandable": false,
+            "kapitel": {
+                "tag": "Die Heimkehr",
+                "color": "#66ff66"
+            }
+        }
+    ]
+}

@@ -21,3 +21,58 @@
         }
     }
 }
+
+.home {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    &.home-header {
+        height: fit-content;
+        width: fit-content;
+        margin-top: 20px;
+        padding: 10px;
+        border-radius: 15px;
+        background-color: $color-divider;
+        font-weight: bold;
+        color: $color-secondary-1;
+    }
+
+    &.home-sub {
+        height: fit-content;
+        margin-top: 20px;
+        padding: 10px;
+        border-radius: 15px;
+        background-color: $color-divider;
+        font-weight: bold;
+        color: $color-secondary-1;
+    }
+
+    &.home-body {
+        strong {
+            font-weight: bold;
+        }
+        height: fit-content;
+        max-width: 60%;
+        margin-top: 20px;
+        padding: 10px;
+        border-radius: 15px;
+        background-color: $color-divider;
+        color: $color-secondary-1;
+        text-align: center;
+    }
+
+    &.home-footer {
+        display: flex;
+        height: fit-content;
+        max-width: 60%;
+        margin-top: 20px;
+        padding: 10px;
+        border-radius: 15px;
+        background-color: $color-divider;
+        color: $color-secondary-1;
+        text-align: center;
+        margin-top: 300px;
+    }
+}

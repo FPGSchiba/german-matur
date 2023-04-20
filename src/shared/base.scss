@@ -1,3 +1,17 @@
-body {
-    @import 'components';
+html {
+    margin: 0;
+    padding: 0;
+
+    body {
+        padding: 0;
+        margin: 0;
+        height: 100%;
+        background: url('../data/wallpaper.jpeg') no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+        @import 'components';
+    }
 }
